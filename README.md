@@ -1,2 +1,2 @@
-# LeetCode-Arrays_101
-This repository cotains the solution of all the problems of LeetCode Array 101 Chapter.
+# competitive_programming
+This repository contains all the cp problems solved by me on CodeChef, LeetCode, HackerEarth, AtCoder
