@@ -1,6 +1,6 @@
 # Copmetitive Coding Problemset Solutions
 
-<img src="relative/path/in/repository/to/image.svg" width="128"/>
+<img src="ezgif-4-10ee2196cf.jpg" width="128"/>
 
 ## All of the problems are under copyright of Codeforces, CodeChef and HackerEarth
 
